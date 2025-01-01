@@ -12,7 +12,7 @@ Hi there! 👋 I'm Asim Raza, an AI Engineer and Machine Learning enthusiast pas
 - Hands-on projects in AI-driven applications and Data Science.
 
 ### 🌟 **Connect with Me**  
-- **GitHub**: [AsimRaza2005]  
+- **GitHub**:   https://github.com/AsimRaza2005
 - **LinkedIn**: [asimraza]  
 
 Let’s build smarter, data-driven solutions together! 🌐
