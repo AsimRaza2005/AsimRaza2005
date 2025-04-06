@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asim Raza</h1>
-<h3 align="center">A passionate to work in domain of Data Engineering ang Gen Ai</h3>
+<h3 align="center">I am passionate about demonstrating my knack in the domains of Data Engineering ang Gen Ai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimraza2005&label=Profile%20views&color=0e75b6&style=flat" alt="asimraza2005" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Engineering projects**
+- 🔭 I’m currently working on **Understanding Data Engineering Architecture**
 
-- 🌱 I’m currently learning **Core Data Enfineering**
+- 🌱 I’m currently learning **Core Data Engineering**
 
 - 👯 I’m looking to collaborate on **Real world Data Engineering projects**
 
